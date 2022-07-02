@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @danielhigg
-- 👀 I’m interested in networking with technical talent on behalf of NEXT Insurance
-- 🌱 I’m currently learning new roller skating moves
-- 💞️ I’m looking to collaborate on career options with our dynamic start-up team
-- 📫 How to reach me daniel.higginbotham@next-insurance.com
+- 👀 I’m interested in networking with technical talent on behalf of OnCorps.ai an Artificial Intelligence Fintech with team members located through the US East Coast and also in the UK in the Bristol area
+- 🌱 If I'm not recruiting, I'm likely out on my quad skates
+- 📫 How to reach me dan.higginbotham@oncorps.io
 
 <!---
 danielhigg/danielhigg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
